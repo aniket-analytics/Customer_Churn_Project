@@ -31,21 +31,18 @@ The dataset includes:
    - Analyzed churn distribution  
    - Identified key drivers such as Monthly Charges and Contract type  
 
-3. **Feature Engineering**  
-   - Created derived features to improve model performance  
-
-4. **Data Preprocessing**  
+3. **Data Preprocessing**  
    - Applied One-Hot Encoding for categorical variables  
    - Used StandardScaler for Logistic Regression  
 
-5. **Handling Imbalanced Data**  
+4. **Handling Imbalanced Data**  
    - Applied SMOTE to improve minority class prediction (churn cases)  
 
-6. **Model Building**  
+5. **Model Building**  
    - Logistic Regression (baseline + optimized)  
    - Random Forest Classifier  
 
-7. **Model Evaluation**  
+6. **Model Evaluation**  
    - Accuracy, Precision, Recall, F1-score  
    - ROC-AUC score for robust evaluation  
 
