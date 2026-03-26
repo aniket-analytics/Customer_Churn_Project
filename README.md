@@ -82,14 +82,6 @@ The dataset includes:
 
 ---
 
-## 🚀 Future Improvements
-
-- Hyperparameter tuning for performance optimization  
-- Deployment using Streamlit or FastAPI  
-- Model explainability using SHAP  
-
----
-
 ## 🧠 Conclusion
 
 This project demonstrates an end-to-end machine learning pipeline for churn prediction, combining data preprocessing, imbalance handling, and model evaluation to solve a real-world business problem effectively.
