@@ -1,18 +1,18 @@
-# 📊 Telco Customer Churn Prediction
+# Telco Customer Churn Prediction
 
-## 🔍 Problem Statement
+## Problem Statement
 Customer churn is a critical business challenge where companies lose existing customers, leading to revenue loss. This project aims to **predict customer churn** and enable businesses to take proactive retention actions.
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 - Identify customers with high churn risk  
 - Improve retention strategies  
 - Minimize revenue loss through early intervention  
 
 ---
 
-## 📁 Dataset
+## Dataset
 The dataset includes:
 - Customer demographics  
 - Subscription details  
@@ -21,7 +21,7 @@ The dataset includes:
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 1. **Data Cleaning**  
    - Handled missing values using median  
@@ -48,7 +48,7 @@ The dataset includes:
 
 ---
 
-## 🤖 Models & Performance  
+## Models & Performance  
 
 | Model                | Accuracy | ROC-AUC |
 |---------------------|----------|--------|
@@ -57,7 +57,7 @@ The dataset includes:
 
 ---
 
-## 📊 Detailed Evaluation  
+## Detailed Evaluation  
 
 ### 1:- Logistic Regression
 - Accuracy: **80.48%**  
@@ -81,7 +81,7 @@ The dataset includes:
 
 ---
 
-## 📈 Key Insights  
+## Key Insights  
 
 - Logistic Regression slightly outperformed Random Forest in ROC-AUC  
 - Both models achieved **~80% accuracy with strong ROC-AUC (~0.85+)**  
@@ -90,7 +90,7 @@ The dataset includes:
 
 ---
 
-## 💡 Business Interpretation  
+## Business Interpretation  
 
 - The model prioritizes identifying churn customers, which is critical for retention strategies  
 - Missing a churn customer is more costly than a false positive  
@@ -98,13 +98,13 @@ The dataset includes:
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end machine learning pipeline for churn prediction, combining data preprocessing, imbalance handling, and model evaluation to solve a real-world business problem effectively.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python  
 - Pandas, NumPy  
 - Scikit-learn  
@@ -113,5 +113,5 @@ This project demonstrates an end-to-end machine learning pipeline for churn pred
 
 ---
 
-## 📌 Author
+## Author
 Aniket Yadav
