@@ -64,9 +64,9 @@ The dataset includes:
 - ROC-AUC: **0.857**  
 
 **Classification Report:**
-- Recall (Churn): **0.94** ✅  
+- Recall (Churn): **0.94** 
 - Precision (Churn): **0.82**  
-- Recall (Non-Churn): **0.44** ⚠️  
+- Recall (Non-Churn): **0.44** 
 
 ---
 
@@ -75,7 +75,7 @@ The dataset includes:
 - ROC-AUC: **0.854**  
 
 **Classification Report:**
-- Recall (Churn): **0.93** ✅  
+- Recall (Churn): **0.93**   
 - Precision (Churn): **0.83**  
 - Recall (Non-Churn): **0.46**  
 
