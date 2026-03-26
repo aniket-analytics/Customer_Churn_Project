@@ -1,12 +1,5 @@
 # 📊 Telco Customer Churn Prediction
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![ROC-AUC](https://img.shields.io/badge/ROC--AUC-0.86-success)
-
----
-
 ## 🔍 Problem Statement  
 Customer churn is a major challenge in the telecom industry, where businesses lose customers to competitors, leading to revenue loss.  
 
